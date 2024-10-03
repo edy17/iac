@@ -1,0 +1,13 @@
+*.iml
+**/*.idea
+/.ipynb_checkpoints/
+/IDEA_Plugin/
+**/target/**
+/.bsp/
+.DS_Store
+__pycache__
+**/.terraform.lock.hcl
+**/terraform.tfstate
+**/terraform.tfstate.backup
+**/.terraform/**
+
